@@ -4,7 +4,7 @@ import { Nav, Navbar, NavDropdown } from "react-bootstrap";
 const NonIndexNav = () => {
   return (
     <Navbar collapseOnSelect={true} bg="light" expand="lg" fixed="top">
-      <Navbar.Brand href="/Sithum/#/home">Sample Text</Navbar.Brand>
+      <Navbar.Brand href="/Sithum/#/">Sample Text</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
