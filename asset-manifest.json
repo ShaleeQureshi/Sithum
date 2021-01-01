@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sithum/static/css/main.740562c2.chunk.css",
-    "main.js": "/Sithum/static/js/main.5acb7585.chunk.js",
+    "main.js": "/Sithum/static/js/main.557976ec.chunk.js",
     "runtime-main.js": "/Sithum/static/js/runtime-main.3293c081.js",
     "static/css/2.1b4fbf1f.chunk.css": "/Sithum/static/css/2.1b4fbf1f.chunk.css",
     "static/js/2.0e43ad15.chunk.js": "/Sithum/static/js/2.0e43ad15.chunk.js",
@@ -21,6 +21,6 @@
     "static/css/2.1b4fbf1f.chunk.css",
     "static/js/2.0e43ad15.chunk.js",
     "static/css/main.740562c2.chunk.css",
-    "static/js/main.5acb7585.chunk.js"
+    "static/js/main.557976ec.chunk.js"
   ]
 }
