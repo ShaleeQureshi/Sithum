@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Text-ExtraBold;
+    src: url("../assets/fonts/static/Raleway-ExtraBold.ttf");
+}
+@font-face {
+    font-family: Text-Light;
+    src: url("../assets/fonts/static/Raleway-Light.ttf");
+}

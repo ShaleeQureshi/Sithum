@@ -1,0 +1,91 @@
+body {
+  background-color: #191919;
+}
+.wrapper {
+  min-height: 100vh;
+  padding-bottom: 100px;
+}
+.bg-home {
+  background-color: #00cdac;
+}
+.footer {
+  background-color: #191919;
+  p {
+    margin: auto;
+    color: white;
+    opacity: 0.5;
+  }
+  #underline {
+    width: 50%;
+    border: 2px solid #00cdac;
+    opacity: 0.75;
+  }
+}
+.section-about {
+  padding-bottom: 10%;
+  img {
+    max-width: 250px;
+    border-radius: 10%;
+    box-shadow: 10px 20px 50px rgb(0, 0, 0);
+  }
+}
+.section-contact {
+  clip-path: polygon(0 20%, 100% 0, 100% 90%, 0 100%);
+  background-color: white;
+  // img {
+  //   max-width: 80vh;
+  //   max-height: 80vh;
+  // }
+}
+
+.section-hack {
+  .row-txt {
+    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 4s; /* Firefox < 16 */
+    -ms-animation: fadein 4s; /* Internet Explorer */
+    -o-animation: fadein 4s; /* Opera < 12.1 */
+    animation: fadein 4s;
+  }
+  @keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Firefox < 16 */
+  @-moz-keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Safari, Chrome and Opera > 12.1 */
+  @-webkit-keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Internet Explorer */
+  @-ms-keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+.section-register {
+  color: white;
+}

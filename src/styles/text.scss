@@ -1,0 +1,24 @@
+$fontBold: Text-ExtraBold;
+$fontLight: Text-Light;
+
+h1 {
+  font-family: $fontBold;
+}
+p {
+  font-family: $fontLight;
+}
+
+.section-about {
+  color: white;
+  h3 {
+    font-family: $fontBold;
+  }
+}
+
+.section-hack {
+  h1,
+  p {
+    //color: #495479;
+    color: #8892b0;
+  }
+}
