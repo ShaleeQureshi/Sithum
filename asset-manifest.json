@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Sithum/static/css/main.740562c2.chunk.css",
-    "main.js": "/Sithum/static/js/main.557976ec.chunk.js",
+    "main.css": "/Sithum/static/css/main.8e27d7c5.chunk.css",
+    "main.js": "/Sithum/static/js/main.80cdd51d.chunk.js",
     "runtime-main.js": "/Sithum/static/js/runtime-main.3293c081.js",
     "static/css/2.1b4fbf1f.chunk.css": "/Sithum/static/css/2.1b4fbf1f.chunk.css",
     "static/js/2.0e43ad15.chunk.js": "/Sithum/static/js/2.0e43ad15.chunk.js",
     "index.html": "/Sithum/index.html",
     "static/js/2.0e43ad15.chunk.js.LICENSE.txt": "/Sithum/static/js/2.0e43ad15.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/Sithum/static/media/Raleway-Light.f25e9b3a.ttf",
+    "static/media/about.5b2056b2.png": "/Sithum/static/media/about.5b2056b2.png",
+    "static/media/main.scss": "/Sithum/static/media/bg.956b5df0.jpg",
     "static/media/img1.f1fdda63.jpg": "/Sithum/static/media/img1.f1fdda63.jpg",
     "static/media/img2.2162815d.jpg": "/Sithum/static/media/img2.2162815d.jpg",
     "static/media/img3.71138c39.jpg": "/Sithum/static/media/img3.71138c39.jpg",
-    "static/media/me.e2fc072c.jpg": "/Sithum/static/media/me.e2fc072c.jpg",
     "static/media/rsz_119198858.1b31dd88.jpg": "/Sithum/static/media/rsz_119198858.1b31dd88.jpg",
     "static/media/rsz_19362653.31df0c4d.jpg": "/Sithum/static/media/rsz_19362653.31df0c4d.jpg",
     "static/media/rsz_4428861.116974e1.jpg": "/Sithum/static/media/rsz_4428861.116974e1.jpg"
@@ -20,7 +21,7 @@
     "static/js/runtime-main.3293c081.js",
     "static/css/2.1b4fbf1f.chunk.css",
     "static/js/2.0e43ad15.chunk.js",
-    "static/css/main.740562c2.chunk.css",
-    "static/js/main.557976ec.chunk.js"
+    "static/css/main.8e27d7c5.chunk.css",
+    "static/js/main.80cdd51d.chunk.js"
   ]
 }
